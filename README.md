@@ -25,4 +25,4 @@ Color maps will be store as .txt files in ./logs directory.
 ## Use color maps in MATLAB
 Put dataset in ./data directory as .mat file.
 
-Follow the example code in load_cmap.m file to imply these color maps into your dataset.
+Follow the example code in load_cmap.m file to apply these color maps into your dataset.
